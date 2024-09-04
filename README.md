@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nabeel Wagle</h1>
 <h3 align="center">An aspiring Devops Engineer.</h3>
-<img align="right" alt= "coding" width ="400" src= "https://cdn.dribbble.com/users/1480650/screenshots/4739771/media/d377582a6131bbc18d5b2856cbd99b59.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=untddanny&label=Profile%20views&color=0e75b6&style=flat" alt="untddanny" /> </p>
+<div align="center">
+    <img alt="coding" width="400" src="autodevops-dribbble-gif.gif">
+</div>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=untddanny&label=Profile%20views&color=0e75b6&style=flat" alt="untddanny" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=untddanny" alt="untddanny" /></a> </p>
 
